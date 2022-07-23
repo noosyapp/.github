@@ -1,4 +1,4 @@
-<img src="https://demos.creative-tim.com/soft-ui-dashboard-tailwind/assets/img/curved-images/curved14.jpg" width="1000" height="300" style="border-radius:50">
+<img src="./profile/banner/rethurn-banner.png">
 <h1>Rethurn</h1>
 <p>Reliable programming Laravel company</p>
 
