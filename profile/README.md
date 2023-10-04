@@ -1,7 +1,7 @@
-<img src="./profile/banner/rethurn-banner.png">
-<h1>Rethurn</h1>
-<p>Reliable programming Laravel company</p>
+<img src="./profile/banner/noosy-banner.svg">
 
-wesome
+### Noosy | Liberdade e criatividade para Desenvolver Apps.
 
-[vacancies at rethurn](https://rethurn.com/careers).
+<p>Um espaço onde os desenvolvedores são incentivados a explorar suas paixões, inovar sem restrições e colaborar em projetos que impactam positivamente a vida das pessoas. Estamos comprometidos em não apenas criar aplicativos excepcionais, mas também em cultivar uma cultura que valoriza a autonomia criativa, a aprendizagem contínua e a expressão individual.</p>
+
+[Welcome our website](https://noosy.app).
