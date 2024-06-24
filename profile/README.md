@@ -1,4 +1,4 @@
-<img src="./profile/banner/noosy-banner.png">
+<img src="./banner/noosy-banner.png">
 
 ### Noosy | Liberdade e criatividade para Desenvolver Apps.
 
